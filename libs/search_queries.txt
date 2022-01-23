@@ -1,0 +1,4 @@
+Ironie: "(#ironie OR #ironisch) -(#sarkasmus OR #sarkastisch) -filter:retweets lang:de"
+Sarkasmus: "-(#ironie OR #ironisch) (#sarkasmus OR #sarkastisch) -filter:retweets lang:de"
+Andere: "-(#ironie OR #ironisch) -(#sarkasmus OR #sarkastisch) -filter:retweets lang:de"
+

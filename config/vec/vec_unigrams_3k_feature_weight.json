@@ -1,0 +1,9 @@
+{
+  "filepath_raw_data" : "big",
+  "target_input_files" : {"0" : "andere.csv", "1" : "ironie.csv", "2" : "sarkasmus.csv"},
+  "filepath_output" : "unigrams_3k_feature_weight",
+  "n_gram_range" : [1,1],
+  "target_names" : {"andere": 0, "ironie": 1, "sarkasmus": 2},
+  "max_samples" : 3000,
+  "dict_features_weight" : 100
+}

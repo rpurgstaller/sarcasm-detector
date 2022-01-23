@@ -1,0 +1,7 @@
+{
+  "filepath_raw_data" : "test",
+  "target_input_files" : {"0" : "andere.csv", "1" : "ironie.csv", "2" : "sarkasmus.csv"},
+  "filepath_output" : "test",
+  "n_gram_range" : [1,2],
+  "target_names" : {"andere": 0, "ironie": 1, "sarkasmus": 2}
+}
